@@ -3,7 +3,7 @@
 
 **Objetivo:** Implementar distintos modelos de Inteligencia Artificial para desarrollar tareas de clasificacion del nivel de trabajo actual en estudiantes universitarios de distintas areas del conocimiento. Algunos de los modelos de aprendizaje utilizados fueron: Decision tree, Random forest, SVC, keras-Sequential, KMeans y DBSCAN.
 
-**Conjunto de datos:**[Education & Career Success](https://www.kaggle.com/datasets/adilshamim8/education-and-career-success)
+**Conjunto de datos:** [Education & Career Success](https://www.kaggle.com/datasets/adilshamim8/education-and-career-success)
 
 **Integrantes:** Daniel Alejandro Ayala Vallejo 2220084, Nelson Felipe Moreno 2220064, David Fernando Naranjo 2220046
 
