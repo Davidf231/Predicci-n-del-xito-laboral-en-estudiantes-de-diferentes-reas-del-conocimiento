@@ -1,2 +1,2 @@
-# Predicci-n-del-xito-laboral-en-estudiantes-de-diferentes-reas-del-conocimiento
+# Predicción del éxito laboral en estudiantes de diferentes áreas del conocimiento
 Proyecto final - Inteligencia artificial 1
