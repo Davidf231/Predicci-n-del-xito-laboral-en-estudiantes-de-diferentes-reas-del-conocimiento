@@ -3,7 +3,7 @@
 
 **Objetivo:** Implementar distintos modelos de Inteligencia Artificial (Machine Learning, Deep Learning y Non-Supervised Learning) para desarrollar tareas de clasificacion para el nivel de trabajo actual en 5000 estudiantes universitarios de distintas areas del conocimiento. Algunas de las variables tenidas en cuenta para este proceso de clasificacion fueron el promedio de calificaciones en la secundaria, cantidad de ofertas laborales luego de la graduacion, satisfaccion durante la carrera, campo de estudio, etc.
 
-**Modelos:**
+**Modelos empleados:**
 - Decision tree
 - Random forest
 - SVC (Support Vector Machine)
