@@ -5,6 +5,7 @@
 
 **Conjunto de datos:** [Education & Career Success](https://www.kaggle.com/datasets/adilshamim8/education-and-career-success)
 
+**Video:** https://youtu.be/ep7EtBVGOx8
+
 **Integrantes:** Daniel Alejandro Ayala Vallejo 2220084, Nelson Felipe Moreno 2220064, David Fernando Naranjo 2220046
 
-**Video:** https://youtu.be/ep7EtBVGOx8
